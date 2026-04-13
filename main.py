@@ -70,7 +70,7 @@ spec:
 
 3. Open Jenkins
 In Jenkins Setting --> Credentials
-New Credentials – User name: <should use the Docker Desktop username>, password <same as
+New Credentials – User name: <should use the Docker Desktop username>, password <same as,,,,,,,docker name and password of it id is dockerhub
 Docker Desktop password>, ID:<dockerhub>, Description <any>
 
 New Credentials – Secret – Broswse C: User->Administrator-->.kube id:kuberconfig
