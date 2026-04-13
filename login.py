@@ -98,6 +98,8 @@ class AppTest {
 THEN OPEN VSCODE:
 1. CLONE YOUR GIT REPOSITORY IN VSCODE
 2. In the TERMINAL type command: mvn clean test
+mvn test
+mvn compile
 
 NOW OPEN JENKINS:
 1. NEW ITEM
